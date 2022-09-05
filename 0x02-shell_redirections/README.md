@@ -1,2 +1,1 @@
-#!/bin/bash
-a script of what each command is doing
+script of command for shell input and Output Redirections and filters
